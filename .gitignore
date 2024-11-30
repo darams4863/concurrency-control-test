@@ -1,0 +1,27 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 환경 설정
+.env
+.vscode/
+venv/
+*.env
+
+# IDE 설정
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 기타
+*.bak
+
